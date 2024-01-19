@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    justify-content: right;
+    margin-top: 142px;
+}
+
+.footer2 {
+    width: 40px;
+    margin-right: 12px;
+    cursor: pointer;
+}

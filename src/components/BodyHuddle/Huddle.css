@@ -1,0 +1,54 @@
+.Huddle {
+    display: flex;
+    margin: 77px;
+    height: 610px;
+}
+
+.Huddle div img {
+    margin-top: 7px;
+
+}
+
+.huddle_2 {
+    margin-left: 57px;
+}
+
+.tittle_huddle {
+    font-size: 29px;
+    margin-top: 57px;
+    color: white;
+}
+
+h3 {
+    font-size: 44px;
+
+}
+
+.text_huddle {
+    margin-top: 28px;
+}
+
+strong{
+    font-size: 14.3px;
+    color: ghostwhite;
+    letter-spacing: 2px;
+}
+
+button {
+    margin-top: 44px;
+    padding: 15px;
+    width: 159px;
+    border-radius: 35px;
+}
+
+.footer {
+    display: flex;
+    justify-content: right;
+    margin-top: 169px;
+}
+
+.footer2 {
+    width: 36px;
+    margin-right: 12px;
+    cursor: pointer;
+}

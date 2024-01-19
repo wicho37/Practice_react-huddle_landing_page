@@ -1,0 +1,14 @@
+.Header{
+    display: flex;
+}
+.Header img{
+    width: 60px;
+    height: 55px;
+    margin: 46px 0 0 72px;
+}
+h1 {
+    font-size: 47px;
+    margin: 46px 0 0 5px;
+    color: white;
+}
+
