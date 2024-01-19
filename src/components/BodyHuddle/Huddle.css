@@ -39,6 +39,12 @@ button {
     padding: 15px;
     width: 159px;
     border-radius: 35px;
+    cursor: pointer;
+}
+button:hover{
+    transition: 0.5s;
+    background-color: #E980E7;
+    color: #FFFFF9
 }
 
 .footer {
