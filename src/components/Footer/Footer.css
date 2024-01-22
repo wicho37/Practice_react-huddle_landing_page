@@ -2,10 +2,21 @@
     display: flex;
     justify-content: right;
     margin-top: 142px;
+    
 }
 
 .footer2 {
     width: 40px;
     margin-right: 12px;
     cursor: pointer;
+}
+
+@media (max-width: 375px)  {
+    .footer{
+        margin-top: 67px;
+        margin-left: 158px;
+        width: 30px;
+        height: 30px;
+        gap: 14px;
+    }
 }
